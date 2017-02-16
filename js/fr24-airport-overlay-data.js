@@ -23,6 +23,6 @@ var fr24_airport_overlay_data = [
 		uploader: "ethernetcable",
 		email: "",
 		date: 2017,
-		image: "ksfo.png"
+		image: "ksfo_transparent.png"
 	}
 ]
