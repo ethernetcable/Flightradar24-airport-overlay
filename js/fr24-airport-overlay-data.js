@@ -14,9 +14,9 @@ var fr24_airport_overlay_data = [
 	},
 	{
 		neBoundLat: 37.64,
-		neBoundLng: 122.36,
+		neBoundLng: -122.36,
 		swBoundLat: 37.61,
-		swBoundLng: 122.41,
+		swBoundLng: -122.41,
 		name: "San Francisco International Airport",
 		IATA: "SFO",
 		ICAO: "KSFO",
